@@ -97,4 +97,4 @@ _pandas, plotly, networkx, scipy_. Other packages (some in-built) include _os, s
 Cite us
 -------
 If you found our tool useful in your analysis, we ask that you cite us as:  
-_(Citation to be displayed soon as our publication is in the reviewing process)_
+Unmani Jaygude, Graham M Hughes, Jeremy C Simpson, Exploring the role of the Rab network in epithelial-to-mesenchymal transition, Bioinformatics Advances, Volume 5, Issue 1, 2025, vbae200, https://doi.org/10.1093/bioadv/vbae200 
